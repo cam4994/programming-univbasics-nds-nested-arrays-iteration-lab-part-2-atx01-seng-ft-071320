@@ -3,3 +3,6 @@ def find_min_in_nested_arrays(src)
   # Produce a new Array that contains the smallest number of each of the nested arrays
 
 end
+
+colin = "Colin" 
+print colin[0] 
