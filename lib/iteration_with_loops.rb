@@ -4,4 +4,4 @@ def find_min_in_nested_arrays(src)
 
 end
 colin = "Colin" 
-puts colin[5]
+puts colin[4]
